@@ -259,7 +259,7 @@ password<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelPar
           <y:Geometry height="177.0" width="391.3333333333335" x="1259.6666666666665" y="250.0"/>
           <y:Fill color="#E8EEF7" color2="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="128.62890625" x="131.35221354166674" xml:space="preserve" y="4.0">InterfaceStudentRepo</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="91.884765625" x="149.72428385416674" xml:space="preserve" y="4.0">PgStudentRepo</y:NodeLabel>
           <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="145.328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="292.15234375" x="2.0" xml:space="preserve" y="30.1328125">connection 
 
 + addStudent(Surname, Name, Class)
@@ -283,7 +283,7 @@ password<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelPar
           <y:Geometry height="152.0" width="391.33333333333337" x="1259.6666666666665" y="449.0"/>
           <y:Fill color="#E8EEF7" color2="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="125.658203125" x="132.83756510416674" xml:space="preserve" y="4.0">InerfaceTeacherRepo</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="93.40234375" x="148.96549479166674" xml:space="preserve" y="4.0">PgTeacherRepo</y:NodeLabel>
           <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="102.9296875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="293.669921875" x="2.0" xml:space="preserve" y="30.1328125">connection 
 
 + addTeacher(Surname, Name)
@@ -305,7 +305,7 @@ password<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelPar
           <y:Geometry height="164.0" width="391.33333333333337" x="1259.6666666666663" y="638.0"/>
           <y:Fill color="#E8EEF7" color2="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="155.306640625" x="118.01334635416674" xml:space="preserve" y="4.0">InterfaceSchoolCircleRepo</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="118.5625" x="136.38541666666674" xml:space="preserve" y="4.0">PgSchoolCircleRepo</y:NodeLabel>
           <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="131.1953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="287.611328125" x="2.0" xml:space="preserve" y="30.1328125">connection 
 
 + addCircle(CircleName, SeatsNumber)
@@ -328,7 +328,7 @@ password<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelPar
           <y:Geometry height="152.0" width="391.33333333333337" x="1261.6666666666665" y="67.0"/>
           <y:Fill color="#E8EEF7" color2="#FFFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.201171875" x="137.56608072916663" xml:space="preserve" y="4.0">InterfaceUsersRepo</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.45703125" x="155.93815104166674" xml:space="preserve" y="4.0">PgUsersRepo</y:NodeLabel>
           <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="88.796875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="top" visible="true" width="173.16015625" x="2.0" xml:space="preserve" y="30.1328125">connection 
 
 + getUserId(login, password)
@@ -345,7 +345,7 @@ password<y:LabelModel><y:ErdAttributesNodeLabelModel/></y:LabelModel><y:ModelPar
       <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
-          <y:Geometry height="851.0" width="925.0000000000003" x="782.3333333333333" y="-5.333333333333343"/>
+          <y:Geometry height="851.0" width="925.0000000000003" x="774.6666666666665" y="-5.333333333333314"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#FFFFFF" configuration="com.yworks.entityRelationship.label.name" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.712890625" x="433.6435546875002" xml:space="preserve" y="4.0">Database</y:NodeLabel>
